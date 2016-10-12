@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Rólam
+title: Bemutatkozás
 permalink: /about/
 ---
 
-Fejlesztőként dolgozom lassan 30 éve. 
+
 
 ### Röviden
 
