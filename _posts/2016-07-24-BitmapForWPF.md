@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mi a legjobb megoldás kép megjelenítésére Bitmap forrásból WPF alkalmazásban?
+categories: cikkek
 ---
 
 # Tartalom
