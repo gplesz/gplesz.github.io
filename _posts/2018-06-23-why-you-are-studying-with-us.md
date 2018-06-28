@@ -4,7 +4,7 @@ title: Mondom is miért nálunk tanulj!
 categories: cikkek
 ---
 
-Korábban a C# nyelv és a .NET Core környezet néhány előnyéről szerettem írni, úgy általánosságban. Tettem ezt azért, hogy aki most kezdene tanulni egy nyelvet, mindenképpen vegye figyelembe, mint jó választást.
+Korábban a C# nyelv és a .NET Core környezet néhány előnyéről írtam, csak úgy általánosságban. Tettem ezt azért, hogy aki most kezdene tanulni egy nyelvet, mindenképpen vegye figyelembe, mint jó választást.
 
 Ezúttal inkább arról írnék, hogy ha érdekel a nyelv, miért [hozzánk gyere C#-ot tanulni](https://app.netacademia.hu/elofizetes), ha érdekel a nyelv? 
 
