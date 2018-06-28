@@ -4,9 +4,7 @@ title: Mondom is, miért C#
 categories: cikkek
 ---
 
-Tehát, szóval. **Miért is érdemes C#-ban programozni?**
-
-Csak nagyon röviden: mert szinte minden területen, kis belépési kültséggel, azonnal működő prototípust tudunk építeni, és a határ majdnem a csillagos ég. Ráadásul a tudáshoz való hozzáférés gyakorlatilag korlátlan.
+Tehát, szóval. **Miért is érdemes C#-ban programozni?** Csak nagyon röviden: mert szinte minden területen, kis belépési kültséggel, azonnal működő prototípust tudunk építeni, és a határ majdnem a csillagos ég. Ráadásul a tudáshoz való hozzáférés gyakorlatilag korlátlan.
 
 Persze, hogy mindjárt mondok példákat is, de előbb megismétlem az eddigieket kicsit hosszabban:
 
