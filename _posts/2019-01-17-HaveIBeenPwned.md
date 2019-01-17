@@ -4,11 +4,9 @@ title: Ha még nem iratkoztál fel, akkor feltétlenül nézd meg
 categories: cikkek, haveibeenpwned, security
 ---
 
-Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okosság.
+Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okosság. Én például ma kaptam értesítést feltört jelszóról:
 
-Én például ma kaptam értesítést feltört jelszóról:
-
-![](images/2019-01-17-haveibeenpwned.png?raw=true)
+![](images/20190117haveibeenpwned.png?raw=true)
 
 ~~Érdemes~~ **Kötelező** az oldalon körülnézni, és mindenképpen ~~érdemes~~ **kötelező** *komoly embereknek* jelszókezelőt használni!
 
