@@ -6,7 +6,7 @@ categories: cikkek, haveibeenpwned, security
 
 Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okosság. Én például ma kaptam értesítést feltört jelszóról:
 
-![](images/20190117haveibeenpwned.png?raw=true)
+![](20190117haveibeenpwned.png?raw=true)
 
 ~~Érdemes~~ **Kötelező** az oldalon körülnézni, és mindenképpen ~~érdemes~~ **kötelező** *komoly embereknek* jelszókezelőt használni!
 
