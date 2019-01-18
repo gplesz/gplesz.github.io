@@ -10,7 +10,7 @@ Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okossá
 
 Eszerint a most napvilágra került "Collection #1" csomagban érintett vagyok.
 
-Az oldal címe: https://haveibeenpwned.com/
+Az oldal címe: [';--have i been pwned?](https://haveibeenpwned.com/)
 
 Lehet csak keresni, és regisztrálni is.
 
