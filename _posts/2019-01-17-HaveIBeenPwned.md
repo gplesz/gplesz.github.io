@@ -8,6 +8,8 @@ Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okossá
 
 ![](20190117haveibeenpwned.png?raw=true)
 
+Eszerint a most napvilágra került "Collection #1" csomagban érintett vagyok.
+
 Az oldal címe: https://haveibeenpwned.com/
 
 Lehet csak keresni, és regisztrálni is.
