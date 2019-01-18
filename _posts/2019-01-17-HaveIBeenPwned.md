@@ -8,7 +8,11 @@ Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okossá
 
 ![](20190117haveibeenpwned.png?raw=true)
 
-~~Érdemes~~ **Kötelező** az oldalon körülnézni, és mindenképpen ~~érdemes~~ **kötelező** *komoly embereknek* jelszókezelőt használni!
+Az oldal címe: https://haveibeenpwned.com/
+
+Lehet csak keresni, és regisztrálni is.
+
+~~Érdemes~~ **Kötelező** [az oldalon](https://haveibeenpwned.com/) körülnézni, és mindenképpen ~~érdemes~~ **kötelező** *komoly embereknek* jelszókezelőt használni!
 
 Sok előnye van, most ezek jutnak eszembe:
 - nem kell megjegyezni a jelszavakat
