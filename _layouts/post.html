@@ -10,7 +10,23 @@ layout: default
   </div>
 
   <div class="date">
-    Létrehozva {{ page.date | date: "%Y. %B %e." }}
+    Létrehozva {{ page.date | date: "%Y. " }}
+    {% assign m = page.date | date: "%-m" %}
+    {% case m %}
+      {% when '1' %}Január
+      {% when '2' %}Február
+      {% when '3' %}Március
+      {% when '4' %}Április
+      {% when '5' %}Május
+      {% when '6' %}Június
+      {% when '7' %}Július
+      {% when '8' %}Augusztus
+      {% when '9' %}Szeptember
+      {% when '10' %}Október
+      {% when '11' %}November
+      {% when '12' %}December
+    {% endcase %}    
+    {{ page.date | date: " %e." }}
   </div>
 
   {% include disqus.html %}
