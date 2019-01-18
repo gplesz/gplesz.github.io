@@ -8,7 +8,7 @@ Csak gondolatébresztőnek szánom, hátha még nem jutott el hozzád az okossá
 
 ![](20190117haveibeenpwned.png?raw=true)
 
-Eszerint a most napvilágra került "Collection #1" csomagban érintett vagyok.
+Eszerint a most napvilágra került [**"Collection #1"**](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/) csomagban érintett vagyok.
 
 Az oldal: [';--have i been pwned?](https://haveibeenpwned.com/)
 
