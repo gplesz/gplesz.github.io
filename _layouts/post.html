@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Létrehozva {{ page.date | date: "%Y. " }}
+    Létrehozva: {{ page.date | date: "%Y. " }}
     {% assign m = page.date | date: "%-m" %}
     {% case m %}
       {% when '1' %}Január
