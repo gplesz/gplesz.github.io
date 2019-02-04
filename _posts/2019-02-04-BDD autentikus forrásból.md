@@ -26,7 +26,7 @@ Vagyis duplagondol-duplacsavar-duplafenék, és így leírva elég macerásnak i
 
 Ezért _is_ írtam ezt a pár sort. 
 
-De leginkább azért, mert szerintem nem kap elég figyelmet, hogy [**magyar fejlesztőé**](http://gasparnagy.com/) a BDD egyik autentikus és a világban széles körben elterjedt C#/dotnet/dotnetcore alapú megoldása, a [SpecFlow](https://specflow.org/). 
-[Nyílt forráskódú](https://github.com/techtalk/SpecFlow), sokféle tesztelési környezetet támogat, a bdd fejlesztők legelterjedtebb eszközének ([cucumber](https://cucumber.io/)) a ([gherkin](http://docs.behat.org/en/v2.5/guides/1.gherkin.html)) BR.DSL nyelvét  használja. Vagyis mondhatni, a világban már kialakult és kiválóan használható művészetet terjeszti ki a dotnet fejlesztők számára is elérhetővé.
+De leginkább azért, mert szerintem nem kap elég figyelmet, hogy [**magyar fejlesztőé**](http://gasparnagy.com/) a BDD egyik autentikus és a világban [széles körben elterjedt](https://www.softwaretestinghelp.com/behavior-driven-development-bdd-tools/) C#/dotnet/dotnetcore alapú megoldása, a [SpecFlow](https://specflow.org/). 
+[Nyílt forráskódú](https://github.com/techtalk/SpecFlow), sokféle tesztelési környezetet [támogat](https://specflow.org/documentation/Unit-Test-Providers/), a bdd fejlesztők legelterjedtebb eszközének ([cucumber](https://cucumber.io/)) a ([gherkin](http://docs.behat.org/en/v2.5/guides/1.gherkin.html)) BR.DSL nyelvét  használja. Vagyis mondhatni, a világban már kialakult és kiválóan használható művészetet terjeszti ki a dotnet fejlesztők számára is elérhetővé.
 
 És azért tiszta forrásból, mert február 21-én [a szerző ingyenes webinar-t tart a BDD-ről](https://smartbear.com/resources/webinars/is-bdd-for-me/), érdemes részt venni rajta.
