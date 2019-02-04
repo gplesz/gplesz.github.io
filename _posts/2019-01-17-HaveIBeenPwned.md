@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ha még nem iratkoztál fel, akkor feltétlenül nézd meg
+title: Vajon hekkerek martaléka lett már a jelszavam?
 categories: cikkek, haveibeenpwned, security
 ---
 
