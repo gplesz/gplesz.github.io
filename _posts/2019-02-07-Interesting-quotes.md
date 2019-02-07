@@ -19,7 +19,7 @@ Minél előbb elkezdesz kódolni, annál tovább tart majd elkészülni.
     the longer the program will take.
       Roy Carlson, University of Wisconsin
 
-Az elkészült fejlesztés értékét az elkészült kódsorok számával mérni olyan, mint egy repülőgép építését az elért súly alapján díjazni
+Az elkészült fejlesztés értékét az elkészült kódsorok számával mérni olyan, mint egy repülőgép építését az elért súlya alapján díjazni
 
     Measuring programming progress by lines of code is 
     like measuring aircraft building progress by weight.
