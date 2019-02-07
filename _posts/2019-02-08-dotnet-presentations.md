@@ -6,6 +6,6 @@ categories: tweet
 
 Találtam egy aranybányát, különböző, igen jó minőségű forráskódok mindenféle témakörben .net környezetre.
 
-Felhívom a figyelmet a Blazor, a Xamarin, az ASP.NET biztonsági és azonosítási kérdéseire valamint az Akka forráskódokra.
+Felhívom a figyelmet a **Blazor**, a **Xamarin**, az **ASP.NET biztonsági és azonosítási kérdéseire** valamint az **Akka** forráskódokra, a többi mellett.
 
 https://dotnet-presentations.github.io/
