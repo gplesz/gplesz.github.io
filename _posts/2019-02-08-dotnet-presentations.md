@@ -8,4 +8,4 @@ Találtam egy aranybányát, különböző, igen jó minőségű forráskódok m
 
 Felhívom a figyelmet a **Blazor**, a **Xamarin**, az **ASP.NET biztonsági és azonosítási kérdéseire** valamint az **Akka** forráskódokra, a többi mellett.
 
-https://dotnet-presentations.github.io/
+[.NET Presentations: Events in a Box!](https://dotnet-presentations.github.io/)
