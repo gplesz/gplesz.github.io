@@ -4,7 +4,7 @@ title: Joel fordítások
 categories: cikkek, idézetek
 ---
 
-Néhány napja rendrakás közben a kezembe akadt néhány fordítás, ami annak idején, talán nem túlzás, megváltoztatta az életemet. 
+Néhány napja rendrakás közben a kezembe akadt pár fordítás, ami annak idején, talán nem túlzás, megváltoztatta az életemet. 
 Történt ugyanis, hogy belefutottam [Joel Spolsky weboldalába](https://www.joelonsoftware.com/), ami már 20 éve is nagyon népszerű volt, több, mint százezren(!) látogatták az oldalát, _naponta_.
 Nem lehet teljesen véletlen az sem, hogy olyan dolgok fűződtek aztán a nevéhez, mint a [stackoverflow](https://www.joelonsoftware.com/2008/04/16/stackoverflowcom/) vagy a [trello](https://www.joelonsoftware.com/2011/09/13/announcing-trello/).
 
