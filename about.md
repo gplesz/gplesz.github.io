@@ -13,7 +13,7 @@ Szabadúszó C#/.NET/SQL fejlesztőként és oktatóként dolgozom, de ezen kív
 - vagy éppen [naplógyűjtésről az Elasticsearch stack segítségével](https://app.netacademia.hu/Tanfolyam/ELSfree-elastic-search--nutshell).
 
 Korábban a [NetAcadémiánál](https://netacademia.hu)
-C#/dotnet fejlesztőként és [oktatóként](https://app.netacademia.hu/Oktato/PleszGabor) dolgoztam.
+C#/dotnet fejlesztőként és [oktatóként](https://app.netacademia.hu/Oktato/PleszGabor) dolgoztam, és jó sok bejegyzést is [írtam a blogra](https://netacademia.blog.hu/).
 
 Ha szerinted a témád érdekelhet, kérlek dobj egy pinget!
 
@@ -23,4 +23,9 @@ Még néhány elérhetőség:
 <img src="https://stackoverflow.com/users/flair/208922.png?theme=clean" width="208" height="58" alt="profile for G&#225;bor Plesz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for G&#225;bor Plesz at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-[Codersrank.io](https://profile.codersrank.io/user/gplesz)
+Itt meglepően jó a listán a helyezésem: [Codersrank.io](https://profile.codersrank.io/user/gplesz) :)
+
+
+[Ez pedig az MCP vizsgám](https://www.youracclaim.com/badges/baec756b-03e4-4b12-a1d8-bda604379d52)
+
+
