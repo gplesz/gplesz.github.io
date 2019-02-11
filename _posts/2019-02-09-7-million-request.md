@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hogy _teljesít_ az ASP.NET Core?
+title: Hogy *teljesít* az ASP.NET Core?
 categories: cikkajánló 
 ---
 
